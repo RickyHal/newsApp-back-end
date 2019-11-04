@@ -16,4 +16,9 @@
   10.user_manage。APP用户请求处理<br/>
   <br/>
   <br/>
+  
+  部署步骤：
+  * 初始化生成数据库：执行/init/inti.py
+  * 启动Django 服务器：Python3 manage.py runserver 0.0.0.0:80
+  * 启动定时推荐：执行/recommend/recommend.py
   ***Developed by RickyHal 2019/06/18***
