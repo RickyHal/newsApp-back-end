@@ -1,7 +1,7 @@
 # news<br/>
 基于Django的新闻，视频类APP，前端采用安卓实现，后端采用Django实现，此为后端代码，包含APP请求API代码、推荐引擎代码、数据采集代码、以及一个简单的数据分析模块代码。<br/>
 <br/>
-前端代码：[/newsApp-front-end](https://github.com/RickyHal/newsApp-front-end)
+前端代码：[newsApp-front-end](https://github.com/RickyHal/newsApp-front-end)
 <br/>
 文件夹功能说明：<br/>
   1.admin_status。后台管理模块<br/>
